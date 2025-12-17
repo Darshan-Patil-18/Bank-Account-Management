@@ -1,1 +1,37 @@
-The Bank Account Management System is a simple console-based Python application created to understand how real-world banking operations can be implemented using basic programming concepts. The project allows a user to create an account, deposit money, withdraw money with proper balance checks, and view the transaction history. All operations are handled through a menu-driven interface, making the program easy to use and understand.This project focuses on learning Object-Oriented Programming by using a class to represent a bank account and methods to perform different actions. It also includes basic input validation to prevent invalid transactions such as negative deposits or withdrawals greater than the available balance. The project is suitable for beginners who want hands-on practice with Python, classes, conditional statements, loops, and lists.
+# 🏦 Bank Account Management System (Python)
+
+A beginner-level Python project that simulates basic bank account operations using Object-Oriented Programming (OOP). This project is designed to help understand how real-world banking logic can be implemented using simple Python concepts.
+
+---
+
+## 📌 Project Overview
+
+The Bank Account Management System is a console-based Python application that allows a user to perform common banking operations such as depositing money, withdrawing money, checking the current balance, and viewing transaction history. The program follows a menu-driven approach and ensures proper input validation to prevent invalid transactions.
+
+This project focuses on learning and applying Object-Oriented Programming by representing a bank account as a class and implementing different operations as class methods. It is suitable for beginners who want hands-on practice with Python fundamentals and real-world logic building.
+
+---
+
+## ⚙️ Features
+
+- Create a bank account with name
+- Deposit money with validation
+- Withdraw money with balance checking
+- Prevent negative or invalid transactions
+- View complete transaction history
+- Menu-driven and easy-to-use interface
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Programming Language:** Python  
+- **Concepts Used:**
+  - Object-Oriented Programming (OOP)
+  - Classes and Objects
+  - Methods and Constructors
+  - Conditional Statements
+  - Loops
+  - Lists (for transaction history)
+  - Basic Exception Handling
+- **Environment:** VS Code 
